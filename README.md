@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @himanshudevops-44
 - 👀 I’m interested in full  stack and new operations 
-- 🌱 I’m currently learning C,web development
+- 🌱 I’m currently learning java , SQL , SpringBoot.
 - 💞️ I’m looking to collaborate on git hub
 - 📫 How to reach me hs174312@gmail.com
-- 😄 Pronouns: him 
+- 😄 Pronouns: NA
 - ⚡ Fun fact: lets make world on mars
 
 <!---
